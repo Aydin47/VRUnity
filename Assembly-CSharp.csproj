@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9db2f6da-18c3-c770-7c2a-d67762a76718}</ProjectGuid>
+    <ProjectGuid>{c62df393-cf98-bb23-2ea7-4bd7dc1131fd}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -302,13 +302,13 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.1.25f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.Unity.Engine">
-        <HintPath>C:\Users\aydin\vuforia new\Library\PackageCache\com.ptc.vuforia.engine@3d5949e7321d-1634895174706\Vuforia\Plugins\Managed\Runtime\Vuforia.Unity.Engine.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\PackageCache\com.ptc.vuforia.engine@7dbd7b3da5ac-1634895174706\Vuforia\Plugins\Managed\Runtime\Vuforia.Unity.Engine.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.Unity.Wrapper">
-        <HintPath>C:\Users\aydin\vuforia new\Library\PackageCache\com.ptc.vuforia.engine@3d5949e7321d-1634895174706\Vuforia\Plugins\Managed\Runtime\Vuforia.Unity.Wrapper.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\PackageCache\com.ptc.vuforia.engine@7dbd7b3da5ac-1634895174706\Vuforia\Plugins\Managed\Runtime\Vuforia.Unity.Wrapper.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>C:\Users\aydin\vuforia new\Library\PackageCache\com.unity.visualscripting@1.6.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\PackageCache\com.unity.visualscripting@1.6.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.1.25f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -659,86 +659,86 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.1.25f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\VuforiaEditorScripts.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VSSettingsProvider">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\VSSettingsProvider.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\VSSettingsProvider.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\VuforiaScripts.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>C:\Users\aydin\vuforia new\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>C:\Users\aydin\aydin git\VRUnity\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{a906c3b3-174c-5426-f928-d338f6b9c2cf}</Project>
+      <Project>{60932455-9778-7fcd-7f26-e54c1a2f4821}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="CommonEditor.csproj">
-      <Project>{962a6c8a-e4b0-a664-afe8-fcda26b863b6}</Project>
+      <Project>{8d2ed02d-8bdb-7852-bbc2-077c6382c3e1}</Project>
       <Name>CommonEditor</Name>
     </ProjectReference>
     <ProjectReference Include="SamplesScripts.csproj">
-      <Project>{3e1f80f9-55b0-80aa-5fea-c22810316d95}</Project>
+      <Project>{b53729ba-fdd2-4995-74b5-34d9095e80a9}</Project>
       <Name>SamplesScripts</Name>
     </ProjectReference>
     <ProjectReference Include="VuforiaVersionCheckerScripts.csproj">
-      <Project>{8ef3ba42-714f-683f-07ca-a70db349ebb8}</Project>
+      <Project>{20214f8d-0331-1660-8f46-d867e6f99479}</Project>
       <Name>VuforiaVersionCheckerScripts</Name>
     </ProjectReference>
     <ProjectReference Include="EditorMigrationScripts.csproj">
-      <Project>{22e09e74-38d4-751a-7876-6db39587b0dc}</Project>
+      <Project>{d0011381-04dc-7662-d48c-87f0ece8d0af}</Project>
       <Name>EditorMigrationScripts</Name>
     </ProjectReference>
     <ProjectReference Include="CommonScripts.csproj">
-      <Project>{4382223a-45b2-64fb-87a8-2699665e1b89}</Project>
+      <Project>{e48ddd44-e0a3-90c4-2ef2-e5fb7c71f147}</Project>
       <Name>CommonScripts</Name>
     </ProjectReference>
   </ItemGroup>
