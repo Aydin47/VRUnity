@@ -9,24 +9,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: -2067402452, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: 
-    ufoLicenseKey: QVdxUkl6Zi8vLy8vQUFBQUtMU213bFd1ZzBDQnBSYWNiVStwRUZpWmxiOTFTNng3anB0VTFIc05SL2tPc0orOFdRQSt5Ymw5TVdZQjZZT1l0M0VQMzlPbU9malpTNEpBaW1GVHdIb2o1VENNZnNzNHU5WFQ5U0pTQ0VyODFQc0lpU3kxdU5NSFJHZjJoR0hYVVdFdnd2YTRSN2NLY3MwZWhDUEV6QTMzRHRDNlliRFNPR0c1RVN0MUxsZ2ZOaVY0UVdmK09YcHA1eEFZOGVJbFczaDBQbWdzZzdQUzdwaVdteldkMFlDRExPUC9aQUZSc25pWmR5TVpGamRTeFdNYncrZk5JejdSb29nTmp5ZHNqQXMzeEdzbDFvaHhVS2xaTUU3OHFsTDFuQ0V2bS91a3BpRkcyd2xYZWo0WWtPdHE5b3QxR1JZandyMHZMcUhJNGp0T2J3RjdhL1lXY2tIVmNlOXY3dUlPdURMdUFRWm9lVERVZXJ4SFNPaEM=
+    ufoLicenseKey: QVEzekhJbi8vLy8vQUFBQUtPa1hheExOVUVGU2hUVnMzY2phdkJaRUMrdm5nMmRkVzJyTXREUjRKWk1aZWMyUEwwalFWbDkzdnFzOE83aU13bVQ3eW9FZENoZ2cyRjFJUkt6THp1MWVDdUVBa2xmL1pRVExJZHJTTTRkejVhbDRrYTFVbjdjTWo4VHBjZzFBWTZKclRlKzFRdWljUi9jZWIyaHlaR3VBMENYRFAzeVFOVFZwZ3dqL3h4L2RmbGZiTFRkZ3BRbTd2NVZEZTYza2pNbnNJeFBFYXloTXZPOE1ndlJuS1RwK3MzejNhTVlhVHRPTEFVVGRPMHlrV2NxbUcrbzErWEYreFd0NnUyWlFndFAweDhPYlBmRFpyVlVRQTJsQUlZR09WWWNOOUk5TVpuZ0l2R29POTAvTjF4MDMrTFl1OUhwM3VMMmNUSE9kSFhET25kb2VXVkhiOFlXbWllcWdyU05MMzUrYk9iR3pvRVdJUjhZT2xiakY=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 4
     maxSimultaneousObjectTargets: 1
     virtualSceneScaleFactor: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-    shareRecordingsInITunes: 0
-    version: 10.0.2
-    eulaAcceptedVersions: '{"Values":[""]}'
+    shareRecordingsInITunes: 1
+    version: 10.2.5
+    eulaAcceptedVersions: '{"Values":["","10.2","0.0"]}'
   database:
-    disableModelExtraction: 0
+    disableModelExtraction: 1
   shaders:
     depthMaskShader: {fileID: 4800000, guid: 1ce7eb78425fb1540838bc9d5d95857a, type: 3}
   videoBackground:
